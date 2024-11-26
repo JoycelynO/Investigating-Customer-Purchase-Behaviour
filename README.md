@@ -9,7 +9,7 @@ Insights and Recommendations are provided on the following key areas:
 2. Brand Affinity
 3. Target Customer Segments
 
-The python notebook detailing the whole process from data cleaning to analysis can be found here.
+The python notebook detailing the whole process from data cleaning to analysis can be found [here](http://localhost:8888/lab/tree/Investigating%20Customer%20Purchase%20Behaviours%20at%20Chips.ipynb).
 
 
 ## Data Structure
