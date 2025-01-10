@@ -1,7 +1,7 @@
 # Investigating-Customer-Purchase-Behaviour
 
 ## Project Background
-The Category Manager for Chips, wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
+A Category Manager for Chips at a supermarket wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 This project analyses the data from transactions and customer attributes to understand the current purchasing trends and behaviours.
 
 Insights and Recommendations are provided on the following key areas:
@@ -9,7 +9,7 @@ Insights and Recommendations are provided on the following key areas:
 2. Brand Affinity
 3. Target Customer Segments
 
-The python notebook detailing the whole process from data cleaning to analysis is uploaded.
+The python notebook detailing the whole process from data cleaning to analysis is attached to the files.
 
 
 ## Data Structure
